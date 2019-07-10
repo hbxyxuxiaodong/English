@@ -3,7 +3,7 @@
 </p>
 
 ##  介绍
-你好，我是徐晓东，笔名[燕云长风](https://www.yanyunchangfeng.com)。大漠穷秋于 2019-03-16 21:22 赠此笔名。   
+你好，我是徐晓东，笔名[燕云长风](https://yanyunchangfeng.com)。大漠穷秋于 2019-03-16 21:22 赠此笔名。   
 寓意：结合李白著名的边塞诗《关山月》取【燕云长风】—— 长风几万里，吹度玉门关。
 
 
@@ -16,6 +16,7 @@
 
 1. [vinc](src/assets/img/lesson1.png)  
 2. [form](src/assets/img/lesson2.png)  
+3. [prehend](src/assets/img/lesson3.png)  
 
 
 ## 我的个人博客  
