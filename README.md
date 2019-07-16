@@ -15,8 +15,9 @@
 ##  这是英语学习word文档和思维导图  
 
 1. [vinc](src/assets/img/lesson1.png)  |  [vinc详解](src/assets/img/lesson1-detail.png)  
-2. [form](src/assets/img/lesson2.png)  |  [form详解](src/assets/img/lesson2-detail.png)    
-3. [prehend](src/assets/img/lesson3.png)  
+2. [form](src/assets/img/lesson2.png)  |  [form详解1](src/assets/img/lesson2-detail.png)    
+3. [form详解2](src/assets/img/lesson3-detail.png)    
+4. [prehend](src/assets/img/lesson4.png)  
 
 
 ## 我的个人博客  
