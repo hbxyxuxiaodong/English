@@ -17,7 +17,7 @@
 1. [vinc](src/assets/img/lesson1.png)  |  [vinc详解](src/assets/img/lesson1-detail.png)  
 2. [form](src/assets/img/lesson2.png)  |  [form详解1](src/assets/img/lesson2-detail.png)    
 3. [form详解2](src/assets/img/lesson3-detail.png)    
-4. [prehend](src/assets/img/lesson4.png)  
+4. [form详解3](src/assets/img/lesson4-detail.png) | [prehend](src/assets/img/lesson4.png)  
 
 
 ## 我的个人博客  
