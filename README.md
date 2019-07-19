@@ -19,6 +19,7 @@
 3. [form详解2](src/assets/img/lesson3-detail.png)    
 4. [form详解3](src/assets/img/lesson4-detail-form.png) | [prehend](src/assets/img/lesson4.png)  |  [prehend详解](src/assets/img/lesson4-detail-prehend.png)
 5. [struct](src/assets/img/lesson5-struct.png) |  [od](src/assets/img/lesson5-od.png)  |  [struct详解](src/assets/img/lesson5-detail-struct.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
+6. [bar](src/assets/img/lesson5-struct.png)   |  [bar详解](src/assets/img/lesson6-detail-bar.png) 
 
 
 ## 我的个人博客  
