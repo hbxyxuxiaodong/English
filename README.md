@@ -23,6 +23,7 @@
 7. [via](src/assets/img/lesson7-via.png)   |  [via详解](src/assets/img/lesson7-detail-via.png)  [script](src/assets/img/lesson7-script.png)   |  [script详解](src/assets/img/lesson7-detail-via.png) [techno](src/assets/img/lesson7-techno.png)   |  [techno详解](src/assets/img/lesson7-detail-teechno.png)  
 解](src/assets/img/lesson5-detail-struct.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
 8. [press](src/assets/img/lesson8-press.png)   |  [press详解](src/assets/img/lesson8-detail-press.png) 
+9. [rect](src/assets/img/lesson9-rect.png)   |  [rect详解](src/assets/img/lesson9-detail-rect.png) 
 
 
 ## 我的个人博客  
