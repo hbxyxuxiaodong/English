@@ -14,16 +14,17 @@
 
 ##  这是英语学习word文档和思维导图  
 
-1. [vinc](src/assets/img/lesson1.png)  |  [vinc详解](src/assets/img/lesson1-detail.png)  
-2. [form](src/assets/img/lesson2.png)  |  [form详解1](src/assets/img/lesson2-detail.png)    
-3. [form详解2](src/assets/img/lesson3-detail.png)    
-4. [form详解3](src/assets/img/lesson4-detail-form.png) | [prehend](src/assets/img/lesson4.png)  |  [prehend详解](src/assets/img/lesson4-detail-prehend.png)
-5. [struct](src/assets/img/lesson5-struct.png) |  [od](src/assets/img/lesson5-od.png)  |  [struct详解](src/assets/img/lesson5-detail-struct.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
-6. [bar](src/assets/img/lesson6-bar.png)   |  [bar详解](src/assets/img/lesson6-detail-bar.png) 
-7. [via](src/assets/img/lesson7-via.png)   |  [via详解](src/assets/img/lesson7-detail-via.png)  [script](src/assets/img/lesson7-script.png)   |  [script详解](src/assets/img/lesson7-detail-via.png) [techno](src/assets/img/lesson7-techno.png)   |  [techno详解](src/assets/img/lesson7-detail-teechno.png)  
+1.  [vinc](src/assets/img/lesson1.png)  |  [vinc详解](src/assets/img/lesson1-detail.png)  
+2.  [form](src/assets/img/lesson2.png)  |  [form详解1](src/assets/img/lesson2-detail.png)    
+3.  [form详解2](src/assets/img/lesson3-detail.png)    
+4.  [form详解3](src/assets/img/lesson4-detail-form.png) | [prehend](src/assets/img/lesson4.png)  |  [prehend详解](src/assets/img/lesson4-detail-prehend.png)
+5.  [struct](src/assets/img/lesson5-struct.png) |  [od](src/assets/img/lesson5-od.png)  |  [struct详解](src/assets/img/lesson5-detail-struct.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
+6.  [bar](src/assets/img/lesson6-bar.png)   |  [bar详解](src/assets/img/lesson6-detail-bar.png) 
+7.  [via](src/assets/img/lesson7-via.png)   |  [via详解](src/assets/img/lesson7-detail-via.png)  [script](src/assets/img/lesson7-script.png)   |  [script详解](src/assets/img/lesson7-detail-via.png) [techno](src/assets/img/lesson7-techno.png)   |  [techno详解](src/assets/img/lesson7-detail-teechno.png)  
 解](src/assets/img/lesson5-detail-struct.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
-8. [press](src/assets/img/lesson8-press.png)   |  [press详解](src/assets/img/lesson8-detail-press.png) 
-9. [rect](src/assets/img/lesson9-rect.png)   |  [rect详解](src/assets/img/lesson9-detail-rect.png) 
+8.  [press](src/assets/img/lesson8-press.png)   |  [press详解](src/assets/img/lesson8-detail-press.png) 
+9.  [rect](src/assets/img/lesson9-rect.png)   |  [rect详解](src/assets/img/lesson9-detail-rect.png) 
+10. [flux](src/assets/img/lesson10-flux.png)   |  [flux详解](src/assets/img/lesson10-detail-flux.png) 
 
 
 ## 我的个人博客  
