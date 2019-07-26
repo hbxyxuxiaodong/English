@@ -25,7 +25,8 @@
 8.  [press](src/assets/img/lesson8-press.png)   |  [press详解](src/assets/img/lesson8-detail-press.png) 
 9.  [rect](src/assets/img/lesson9-rect.png)   |  [rect详解](src/assets/img/lesson9-detail-rect.png) 
 10. [flux](src/assets/img/lesson10-flux.png)   |  [flux详解](src/assets/img/lesson10-detail-flux.png) 
-11. [st](src/assets/img/lesson11-st.png)   |  [st详解](src/assets/img/lesson11-detail-st.png) 
+11. [st](src/assets/img/lesson11-st.png)   |  [st详解1](src/assets/img/lesson11-detail-st.png) 
+12. [st2](src/assets/img/lesson12-st.png)   |  [st详解2](src/assets/img/lesson11-detail-st.png) 
 
 
 ## 我的个人博客  
