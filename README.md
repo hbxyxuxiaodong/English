@@ -31,6 +31,8 @@
 14. [st4](src/assets/img/lesson14-st.png)   |  [st详解4](src/assets/img/lesson14-detail-st.png) 
 15. [st5](src/assets/img/lesson15-st.png)   |  [st详解5](src/assets/img/lesson15-detail-st.png) 
 16. [st6](src/assets/img/lesson16-st.png)   |  [st详解6](src/assets/img/lesson16-detail-st.png) 
+17. [sit](src/assets/img/lesson16
+7-sit.png)   |  [sit](src/assets/img/lesson17-detail-sit.png) 
 
 
 ## 我的个人博客  
