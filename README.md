@@ -33,7 +33,7 @@
 17. [sit](src/assets/img/lesson17-sit.png)  |  [sit详解](src/assets/img/lesson17-detail-sit.png) 
 18. [pear](src/assets/img/lesson18-pear.png)  |  [pear详解](src/assets/img/lesson18-detail-pear.png) |  [mov](src/assets/img/lesson18-mov.png)  |  [mov详解](src/assets/img/lesson18-detail-mov.png) 
 19. [cover](src/assets/img/lesson19-cover.png)  |  [cover详解](src/assets/img/lesson19-detail-cover.png) |  [plic1](src/assets/img/lesson19-plic.png)  |  [plic详解1](src/assets/img/lesson19-detail-plic.png) 
-20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic详解2](src/assets/img/lesson20-detail-plic.png) |  [mus](src/assets/img/lesson20-mus.png)  |  [mus详解](src/assets/img/lesson20-detail-mus.png) 
+20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic详解2](src/assets/img/lesson20-detail-plic.png) |  [mus](src/assets/img/lesson20-mus.png)  |  [mus详解](src/assets/img/lesson20-detail-mus.png) |  [erg](src/assets/img/lesson20-erg.png)  |  [erg详解](src/assets/img/lesson20-detail-erg.png) 
 
 ## 我的个人博客  
 
