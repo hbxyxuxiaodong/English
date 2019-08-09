@@ -24,7 +24,7 @@
 8.  [press](src/assets/img/lesson8-press.png)   |  [press详解](src/assets/img/lesson8-detail-press.png) 
 9.  [rect](src/assets/img/lesson9-rect.png)   |  [rect详解](src/assets/img/lesson9-detail-rect.png) 
 10. [flux](src/assets/img/lesson10-flux.png)   |  [flux详解](src/assets/img/lesson10-detail-flux.png) 
-11. [st](src/assets/img/lesson11-st.png)   |  [st详解1](src/assets/img/lesson11-detail-st.png) 
+11. [st1](src/assets/img/lesson11-st.png)   |  [st详解1](src/assets/img/lesson11-detail-st.png) 
 12. [st2](src/assets/img/lesson12-st.png)   |  [st详解2](src/assets/img/lesson12-detail-st.png) 
 13. [st3](src/assets/img/lesson13-st.png)   |  [st详解3](src/assets/img/lesson13-detail-st.png) 
 14. [st4](src/assets/img/lesson14-st.png)   |  [st详解4](src/assets/img/lesson14-detail-st.png) 
@@ -32,7 +32,8 @@
 16. [st6](src/assets/img/lesson16-st.png)   |  [st详解6](src/assets/img/lesson16-detail-st.png) 
 17. [sit](src/assets/img/lesson17-sit.png)  |  [sit详解](src/assets/img/lesson17-detail-sit.png) 
 18. [pear](src/assets/img/lesson18-pear.png)  |  [pear详解](src/assets/img/lesson18-detail-pear.png) |  [mov](src/assets/img/lesson18-mov.png)  |  [mov详解](src/assets/img/lesson18-detail-mov.png) 
-19. [cover](src/assets/img/lesson19-cover.png)  |  [cover详解](src/assets/img/lesson19-detail-cover.png) |  [plic](src/assets/img/lesson19-plic.png)  |  [plic详解](src/assets/img/lesson19-detail-plic.png) 
+19. [cover](src/assets/img/lesson19-cover.png)  |  [cover详解](src/assets/img/lesson19-detail-cover.png) |  [plic1](src/assets/img/lesson19-plic.png)  |  [plic详解1](src/assets/img/lesson19-detail-plic.png) 
+20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic详解2](src/assets/img/lesson20-detail-plic.png) 
 
 ## 我的个人博客  
 
