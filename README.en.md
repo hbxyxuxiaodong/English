@@ -20,17 +20,17 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 9.  [rect](src/assets/img/lesson9-rect.png)   |  [rect-detail](src/assets/img/lesson9-detail-rect.png) 
 10. [flux](src/assets/img/lesson10-flux.png)   |  [flux-detail](src/assets/img/lesson10-detail-flux.png) 
 11. [st1](src/assets/img/lesson11-st.png)   |  [st1-detail](src/assets/img/lesson11-detail-st.png) 
-12. [st2](src/assets/img/lesson12-st.png)   |  [st2-detail-prev](src/assets/img/lesson12-detail-st-prev.png) |  [st-detail-2-next](src/assets/img/lesson12-detail-st-next.png) 
-13. [st3](src/assets/img/lesson13-st.png)   |  [st3-detail-prev](src/assets/img/lesson13-detail-st-prev.png) |  [st-detail-3-next](src/assets/img/lesson13-detail-st-next.png) 
+12. [st2](src/assets/img/lesson12-st.png)   |  [st2-detail-prev](src/assets/img/lesson12-detail-st-prev.png) |  [st2-detail-next](src/assets/img/lesson12-detail-st-next.png) 
+13. [st3](src/assets/img/lesson13-st.png)   |  [st3-detail-prev](src/assets/img/lesson13-detail-st-prev.png) |  [st3-detail-next](src/assets/img/lesson13-detail-st-next.png) 
 14. [st4](src/assets/img/lesson14-st.png)   |  [st4-detail](src/assets/img/lesson14-detail-st.png) 
 15. [st5](src/assets/img/lesson15-st.png)   |  [st5-detail](src/assets/img/lesson15-detail-st.png) 
-16. [st6](src/assets/img/lesson16-st.png)   |  [st6-detail-prev](src/assets/img/lesson16-detail-st-prev.png) |  [st-detail-6-next](src/assets/img/lesson16-detail-st-next.png) 
+16. [st6](src/assets/img/lesson16-st.png)   |  [st6-detail-prev](src/assets/img/lesson16-detail-st-prev.png) |  [st6-detail-next](src/assets/img/lesson16-detail-st-next.png) 
 17. [sit](src/assets/img/lesson17-sit.png)  |  [sit-detail-prev](src/assets/img/lesson17-detail-sit-prev.png) |  [sit-detail-next](src/assets/img/lesson17-detail-sit-next.png) 
 18. [pear](src/assets/img/lesson18-pear.png)  |  [pear-detail](src/assets/img/lesson18-detail-pear.png) |  [mov](src/assets/img/lesson18-mov.png)  |  [mov-detail](src/assets/img/lesson18-detail-mov.png) 
 19. [cover](src/assets/img/lesson19-cover.png)  |  [cover-detail](src/assets/img/lesson19-detail-cover.png) |  [plic1](src/assets/img/lesson19-plic.png)  |  [plic1-detail](src/assets/img/lesson19-detail-plic.png) 
 20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic2-detail](src/assets/img/lesson20-detail-plic.png) |  [mus](src/assets/img/lesson20-mus.png)  |  [mus-detail](src/assets/img/lesson20-detail-mus.png) |  [erg1](src/assets/img/lesson20-erg.png)  |  [erg1-detail](src/assets/img/lesson20-detail-erg.png) 
 21. [erg2](src/assets/img/lesson21-erg.png)  |  [erg2-detail](src/assets/img/lesson21-detail-erg.png) |  [lect1](src/assets/img/lesson21-lect.png)  |  [lect1-detail](src/assets/img/lesson21-detail-lect.png) 
-22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2-detail](src/assets/img/lesson22-detail-lect.png) 
+22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2-detail-prev](src/assets/img/lesson22-detail-lect-prev.png) |  [lect2-detail-next](src/assets/img/lesson22-detail-lect-next.png) 
 
 ## Personal Blog  
 

@@ -37,7 +37,7 @@
 19. [cover](src/assets/img/lesson19-cover.png)  |  [cover详解](src/assets/img/lesson19-detail-cover.png) |  [plic1](src/assets/img/lesson19-plic.png)  |  [plic1详解](src/assets/img/lesson19-detail-plic.png) 
 20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic2详解](src/assets/img/lesson20-detail-plic.png) |  [mus](src/assets/img/lesson20-mus.png)  |  [mus详解](src/assets/img/lesson20-detail-mus.png) |  [erg1](src/assets/img/lesson20-erg.png)  |  [erg1详解](src/assets/img/lesson20-detail-erg.png) 
 21. [erg2](src/assets/img/lesson21-erg.png)  |  [erg2详解](src/assets/img/lesson21-detail-erg.png) |  [lect1](src/assets/img/lesson21-lect.png)  |  [lect1详解](src/assets/img/lesson21-detail-lect.png) 
-22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2详解](src/assets/img/lesson22-detail-lect.png) 
+22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2详解上](src/assets/img/lesson22-detail-lect-prev.png) |  [lect2详解下](src/assets/img/lesson22-detail-lect-next.png) 
 
 
 ## 我的个人博客  
