@@ -1,3 +1,5 @@
+[简体中文](README.md) |  English  
+
 <p align="center">
     <img width="300" src="src/assets/img/yanyunchangfeng.png">
 </p>
