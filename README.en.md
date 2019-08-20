@@ -31,7 +31,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic2-detail](src/assets/img/lesson20-detail-plic.png) |  [mus](src/assets/img/lesson20-mus.png)  |  [mus-detail](src/assets/img/lesson20-detail-mus.png) |  [erg1](src/assets/img/lesson20-erg.png)  |  [erg1-detail](src/assets/img/lesson20-detail-erg.png) 
 21. [erg2](src/assets/img/lesson21-erg.png)  |  [erg2-detail](src/assets/img/lesson21-detail-erg.png) |  [lect1](src/assets/img/lesson21-lect.png)  |  [lect1-detail](src/assets/img/lesson21-detail-lect.png) 
 22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2-detail-prev](src/assets/img/lesson22-detail-lect-prev.png) |  [lect2-detail-next](src/assets/img/lesson22-detail-lect-next.png) 
-
+23. [nerv](src/assets/img/lesson23-nerv.png)  |  [nerv-detail](src/assets/img/lesson23-detail-nerv.png) 
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
