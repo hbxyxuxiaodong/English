@@ -1,7 +1,7 @@
 [English](README.en.md) | 简体中文   
 
 <p align="center">
-    <img width="300" src="src/assets/img/yanyunchangfeng.png">
+    <img width="300" src="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/img/blog/yycf/yanyunchangfeng.png">
 </p>
 
 ##  介绍
