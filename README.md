@@ -39,7 +39,7 @@
 21. [erg2](src/assets/img/lesson21-erg.png)  |  [erg2详解](src/assets/img/lesson21-detail-erg.png) |  [lect1](src/assets/img/lesson21-lect.png)  |  [lect1详解](src/assets/img/lesson21-detail-lect.png) 
 22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2详解上](src/assets/img/lesson22-detail-lect-prev.png) |  [lect2详解下](src/assets/img/lesson22-detail-lect-next.png) 
 23. [nerv](src/assets/img/lesson23-nerv.png)  |  [nerv详解](src/assets/img/lesson23-detail-nerv.png) 
-24. [path](src/assets/img/lesson24-path.png)  |  [path详解](src/assets/img/lesson24-detail-path.png) 
+24. [path](src/assets/img/lesson24-path.png)  |  [path详解](src/assets/img/lesson24-detail-path.png)   |   [strict](src/assets/img/lesson24-strict.png)  |  [strict详解](src/assets/img/lesson24-detail-strict.png) 
 
 ## 我的个人博客  
 
