@@ -40,7 +40,7 @@
 22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2详解上](src/assets/img/lesson22-detail-lect-prev.png) |  [lect2详解下](src/assets/img/lesson22-detail-lect-next.png) 
 23. [nerv](src/assets/img/lesson23-nerv.png)  |  [nerv详解](src/assets/img/lesson23-detail-nerv.png) 
 24. [path](src/assets/img/lesson24-path.png)  |  [path详解](src/assets/img/lesson24-detail-path.png)   |   [strict1](src/assets/img/lesson24-strict.png)  |  [strict1详解](src/assets/img/lesson24-detail-strict.png)  
-25. [strict2](src/assets/img/lesson25-strict.png)  |  [strict2详解](src/assets/img/lesson25-detail-strict.png)  |  [vac](src/assets/img/lesson25-vac.png)  |  [vac详解](src/assets/img/lesson25-detail-vac.png) 
+25. [strict2](src/assets/img/lesson25-strict.png)  |  [strict2详解](src/assets/img/lesson25-detail-strict.png)  |  [vac](src/assets/img/lesson25-vac.png)  |  [vac详解](src/assets/img/lesson25-detail-vac.png) |  [ple](src/assets/img/lesson25-ple.png)  |  [ple详解](src/assets/img/lesson25-detail-ple.png) 
 
 ## 我的个人博客  
 
