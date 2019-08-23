@@ -15,7 +15,7 @@
 </p>
 
 ##  这是英语学习word文档和思维导图  
-
+0.  [音标](src/assets/img/lesson0.png)
 1.  [vinc](src/assets/img/lesson1.png)  |  [vinc详解](src/assets/img/lesson1-detail.png)  
 2.  [form1](src/assets/img/lesson2.png)  |  [form1详解](src/assets/img/lesson2-detail.png)    
 3.  [form2详解](src/assets/img/lesson3-detail.png)    
