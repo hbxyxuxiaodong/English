@@ -34,7 +34,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 23. [nerv](src/assets/img/lesson23-nerv.png)  |  [nerv-detail](src/assets/img/lesson23-detail-nerv.png) 
 24. [path](src/assets/img/lesson24-path.png)  |  [path-detail](src/assets/img/lesson24-detail-path.png) |    [strict1](src/assets/img/lesson24-strict.png)  |  [strict1-detail](src/assets/img/lesson24-detail-strict.png) 
 25. [strict2](src/assets/img/lesson25-strict.png)  |  [strict2-detail](src/assets/img/lesson25-detail-strict.png)  |  [vac](src/assets/img/lesson25-vac.png)  |  [vac-detail](src/assets/img/lesson25-detail-vac.png) |  [ple](src/assets/img/lesson25-ple.png)  |  [ple-detail](src/assets/img/lesson25-detail-ple.png)   
-26. [medi](src/assets/img/lesson26-medi.png)  |  [medi-detail](src/assets/img/lesson26-detail-medi.png) |  [preci](src/assets/img/lesson26-ple.png)  |  [preci-detail](src/assets/img/lesson26-detail-ple.png)  |  [miss](src/assets/img/lesson26-miss.png)  |  [miss-detail](src/assets/img/lesson26-detail-miss.png) 
+26. [medi](src/assets/img/lesson26-medi.png)  |  [medi-detail](src/assets/img/lesson26-detail-medi.png) |  [preci](src/assets/img/lesson26-ple.png)  |  [preci-detail](src/assets/img/lesson26-detail-ple.png)  |  [miss1](src/assets/img/lesson26-miss.png)  |  [miss1-detail](src/assets/img/lesson26-detail-miss.png) 
+27. [miss2](src/assets/img/lesson27-miss.png)  |  [miss2-detail](src/assets/img/lesson27-detail-miss.png) 
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
