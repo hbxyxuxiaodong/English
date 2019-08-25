@@ -43,7 +43,7 @@
 25. [strict2](src/assets/img/lesson25-strict.png)  |  [strict2详解](src/assets/img/lesson25-detail-strict.png)  |  [vac](src/assets/img/lesson25-vac.png)  |  [vac详解](src/assets/img/lesson25-detail-vac.png) |  [ple](src/assets/img/lesson25-ple.png)  |  [ple详解](src/assets/img/lesson25-detail-ple.png) 
 26. [medi](src/assets/img/lesson26-medi.png)  |  [medi详解](src/assets/img/lesson26-detail-medi.png) |  [preci](src/assets/img/lesson26-preci.png)  |  [preci详解](src/assets/img/lesson26-detail-preci.png) |[miss1](src/assets/img/lesson26-miss.png)  |  [miss1详解](src/assets/img/lesson26-detail-miss.png) 
 27. [miss2](src/assets/img/lesson27-miss.png)  |  [miss2详解](src/assets/img/lesson27-detail-miss.png) 
-28. [sci](src/assets/img/lesson28-sci.png)  |  [sci详解](src/assets/img/lesson28-detail-sci.png) 
+28. [sci](src/assets/img/lesson28-sci.png)  |  [sci详解](src/assets/img/lesson28-detail-sci.png) |  [liter](src/assets/img/lesson28-liter.png)  |  [liter详解](src/assets/img/lesson28-detail-liter.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
