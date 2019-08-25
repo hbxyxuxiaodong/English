@@ -8,7 +8,7 @@
 Hello, I'm Xiao dong Xu. Pen name is [Yan Yun Chang feng](https://yanyunchangfeng.com), It was given by Da Mo Qiong qiu in 2019-03-16 21:22. 
 Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - Long winds of tens of thousands of miles, belowing Yumenguan.
 ##  Learning English Word
-0.  [phonetic transcription](src/assets/img/lesson0.png)  
+0.  [phonetic transcription](src/assets/img/lesson0.png)  | [phonetic transcription detail](src/assets/img/lesson0-detail.png)  
 1.  [vinc](src/assets/img/lesson1.png)  |  [vinc-detail](src/assets/img/lesson1-detail.png)  
 2.  [form1](src/assets/img/lesson2.png)  |  [form1-detail](src/assets/img/lesson2-detail.png)    
 3.  [form2-detail](src/assets/img/lesson3-detail.png)    
