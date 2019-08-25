@@ -36,7 +36,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 25. [strict2](src/assets/img/lesson25-strict.png)  |  [strict2-detail](src/assets/img/lesson25-detail-strict.png)  |  [vac](src/assets/img/lesson25-vac.png)  |  [vac-detail](src/assets/img/lesson25-detail-vac.png) |  [ple](src/assets/img/lesson25-ple.png)  |  [ple-detail](src/assets/img/lesson25-detail-ple.png)   
 26. [medi](src/assets/img/lesson26-medi.png)  |  [medi-detail](src/assets/img/lesson26-detail-medi.png) |  [preci](src/assets/img/lesson26-preci.png)  |  [preci-detail](src/assets/img/lesson26-detail-preci.png)  |  [miss1](src/assets/img/lesson26-miss.png)  |  [miss1-detail](src/assets/img/lesson26-detail-miss.png) 
 27. [miss2](src/assets/img/lesson27-miss.png)  |  [miss2-detail](src/assets/img/lesson27-detail-miss.png) 
-28. [sci](src/assets/img/lesson28-sci.png)  |  [sci-detail](src/assets/img/lesson28-detail-sci.png)  |  [liter](src/assets/img/lesson28-liter.png)  |  [liter-detail](src/assets/img/lesson28-detail-liter.png)  
+28. [sci](src/assets/img/lesson28-sci.png)  |  [sci-detail](src/assets/img/lesson28-detail-sci.png)  |  [liter](src/assets/img/lesson28-liter.png)  |  [liter-detail](src/assets/img/lesson28-detail-liter.png)  |  [sum](src/assets/img/lesson28-sum.png)  |  [sum-detail](src/assets/img/lesson28-detail-sum.png) 
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
