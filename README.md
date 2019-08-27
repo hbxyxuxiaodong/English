@@ -45,7 +45,7 @@
 27. [miss2](src/assets/img/lesson27-miss.png)  |  [miss2详解](src/assets/img/lesson27-detail-miss.png) 
 28. [sci](src/assets/img/lesson28-sci.png)  |  [sci详解](src/assets/img/lesson28-detail-sci.png) |  [liter](src/assets/img/lesson28-liter.png)  |  [liter详解](src/assets/img/lesson28-detail-liter.png) |  [sum1](src/assets/img/lesson28-sum.png)  |  [sum1详解](src/assets/img/lesson28-detail-sum.png)  
 29. [sum2](src/assets/img/lesson29-sum.png)  |  [sum2详解](src/assets/img/lesson29-detail-sum.png) |[spect1](src/assets/img/lesson29-spect.png)  |  [spect1详解](src/assets/img/lesson29-detail-spect.png)  
-30. [spect2](src/assets/img/lesson30-spect.png)  |  [spect2详解](src/assets/img/lesson30-detail-spect.png) 
+30. [spect2](src/assets/img/lesson30-spect.png)  |  [spect2详解上](src/assets/img/lesson30-detail-spect-prev.png) |  [spect2详解下](src/assets/img/lesson30-detail-spect-next.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
