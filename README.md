@@ -47,7 +47,7 @@
 29. [sum2](src/assets/img/lesson29-sum.png)  |  [sum2详解](src/assets/img/lesson29-detail-sum.png) |[spect1](src/assets/img/lesson29-spect.png)  |  [spect1详解](src/assets/img/lesson29-detail-spect.png)  
 30. [spect2](src/assets/img/lesson30-spect.png)  |  [spect2详解上](src/assets/img/lesson30-detail-spect-prev.png) |  [spect2详解下](src/assets/img/lesson30-detail-spect-next.png) 
 31. [spect3](src/assets/img/lesson31-spect.png) | [spect3详解](src/assets/img/lesson31-detail-spect.png) | [vis1](src/assets/img/lesson31-vis.png) | [vis1详解](src/assets/img/lesson31-detail-vis.png) 
-32.  [vis2](src/assets/img/lesson32-vis.png) | [vis2详解](src/assets/img/lesson32-detail-vis.png) 
+32.  [vis2](src/assets/img/lesson32-vis.png) | [vis2详解](src/assets/img/lesson32-detail-vis.png) | [seri](src/assets/img/lesson32-seri.png) | [seri详解](src/assets/img/lesson32-detail-seri.png) | [lat](src/assets/img/lesson32-lat.png) | [lat详解](src/assets/img/lesson32-detail-lat.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
