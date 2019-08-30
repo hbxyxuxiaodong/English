@@ -16,9 +16,9 @@
 
 ##  这是英语学习word文档和思维导图  
 0.  [音标](src/assets/img/lesson0.png)  |  [音标详解](src/assets/img/lesson0-detail.png)  
-1.  [vinc](src/assets/img/lesson1.png)  |  [vinc详解](src/assets/img/lesson1-detail.png)  
-2.  [form1](src/assets/img/lesson2.png)  |  [form1详解](src/assets/img/lesson2-detail.png)    
-3.  [form2详解](src/assets/img/lesson3-detail.png)    
+1.  [vinc](src/assets/img/lesson1-vinc.png)  |  [vinc详解](src/assets/img/lesson1-detail-vinc.png)  
+2.  [form1](src/assets/img/lesson2-form.png)  |  [form1详解](src/assets/img/lesson2-detail-form.png)    
+3.  [form2](src/assets/img/lesson3-form.png)  |  [form2详解](src/assets/img/lesson3-detail-form.png)    
 4.  [form3详解](src/assets/img/lesson4-detail-form.png) | [prehend](src/assets/img/lesson4.png)  |  [prehend详解](src/assets/img/lesson4-detail-prehend.png)
 5.  [struct](src/assets/img/lesson5-struct.png) |  [od](src/assets/img/lesson5-od.png)  |  [struct详解](src/assets/img/lesson5-detail-struct.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
 6.  [bar](src/assets/img/lesson6-bar.png)   |  [bar详解](src/assets/img/lesson6-detail-bar.png) 
