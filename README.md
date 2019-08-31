@@ -49,7 +49,7 @@
 31. [spect3](src/assets/img/lesson31-spect.png) | [spect3详解](src/assets/img/lesson31-detail-spect.png) | [vis1](src/assets/img/lesson31-vis.png) | [vis1详解](src/assets/img/lesson31-detail-vis.png) 
 32.  [vis2](src/assets/img/lesson32-vis.png) | [vis2详解](src/assets/img/lesson32-detail-vis.png) | [seri](src/assets/img/lesson32-seri.png) | [seri详解](src/assets/img/lesson32-detail-seri.png) | [lat1](src/assets/img/lesson32-lat.png) | [lat1详解](src/assets/img/lesson32-detail-lat.png) 
 33. [lat2](src/assets/img/lesson33-lat.png) | [lat2详解](src/assets/img/lesson33-detail-lat.png) | [sim1](src/assets/img/lesson33-sim.png) | [sim1详解](src/assets/img/lesson33-detail-sim.png)
-34. [sim2](src/assets/img/lesson34-sim.png) | [sim2详解](src/assets/img/lesson34-detail-sim.png)  
+34. [sim2](src/assets/img/lesson34-sim.png) | [sim2详解](src/assets/img/lesson34-detail-sim.png)  |  [descip](src/assets/img/lesson34-descip.png) | [descip详解](src/assets/img/lesson34-detail-descip.png)  
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
