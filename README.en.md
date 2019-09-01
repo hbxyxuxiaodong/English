@@ -42,7 +42,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 31. [spect3](src/assets/img/lesson31-spect.png) | [spect3-detail](src/assets/img/lesson31-detail-spect.png) | [vis1](src/assets/img/lesson31-vis.png) | [vis1-detail](src/assets/img/lesson31-detail-vis.png) 
 32.  [vis2](src/assets/img/lesson32-vis.png) | [vis2-detail](src/assets/img/lesson32-detail-vis.png)  |  [seri](src/assets/img/lesson32-seri.png) | [seri-detail](src/assets/img/lesson32-detail-seri.png)   |   [lat](src/assets/img/lesson32-lat.png) | [lat-detail](src/assets/img/lesson32-detail-lat.png)  
 33. [lat2](src/assets/img/lesson33-lat.png) | [lat2-detail](src/assets/img/lesson33-detail-lat.png) | [sim1](src/assets/img/lesson33-sim.png) | [sim1-detail](src/assets/img/lesson33-detail-sim.png) 
-34. [sim2](src/assets/img/lesson34-sim.png) | [sim2-detail](src/assets/img/lesson34-detail-sim.png)   |  [descip](src/assets/img/lesson34-descip.png) | [descip-detail](src/assets/img/lesson34-detail-descip.png)  [helic](src/assets/img/lesson34-helic.png) | [helic-detail](src/assets/img/lesson34-detail-helic.png)  |  [cept](src/assets/img/lesson34-cept.png) | [cept-detail](src/assets/img/lesson34-detail-cept.png)
+34. [sim2](src/assets/img/lesson34-sim.png) | [sim2-detail](src/assets/img/lesson34-detail-sim.png)   |  [descip](src/assets/img/lesson34-descip.png) | [descip-detail](src/assets/img/lesson34-detail-descip.png)  [helic](src/assets/img/lesson34-helic.png) | [helic-detail](src/assets/img/lesson34-detail-helic.png)  |  [cept](src/assets/img/lesson34-cept.png) | [cept-detail](src/assets/img/lesson34-detail-cept.png)  
+35. [cept2](src/assets/img/lesson35-cept.png) | [cept2-detail](src/assets/img/lesson35-detail-cept.png)  
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
