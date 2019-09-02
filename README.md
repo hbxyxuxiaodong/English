@@ -51,6 +51,7 @@
 33. [lat2](src/assets/img/lesson33-lat.png) | [lat2详解](src/assets/img/lesson33-detail-lat.png) | [sim1](src/assets/img/lesson33-sim.png) | [sim1详解](src/assets/img/lesson33-detail-sim.png)
 34. [sim2](src/assets/img/lesson34-sim.png) | [sim2详解](src/assets/img/lesson34-detail-sim.png)  |  [descip](src/assets/img/lesson34-descip.png) | [descip详解](src/assets/img/lesson34-detail-descip.png) | [helic](src/assets/img/lesson34-helic.png) | [helic详解](src/assets/img/lesson34-detail-helic.png)  |  [cept1](src/assets/img/lesson34-cept.png) | [cept1详解](src/assets/img/lesson34-detail-cept.png)  
 35. [cept2](src/assets/img/lesson35-cept.png) | [cept2详解](src/assets/img/lesson35-detail-cept.png)  
+36. [cept3](src/assets/img/lesson36-cept.png) | [cept3详解](src/assets/img/lesson36-detail-cept.png)  
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
