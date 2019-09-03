@@ -52,7 +52,7 @@
 34. [sim2](src/assets/img/lesson34-sim.png) | [sim2详解](src/assets/img/lesson34-detail-sim.png)  |  [descip](src/assets/img/lesson34-descip.png) | [descip详解](src/assets/img/lesson34-detail-descip.png) | [helic](src/assets/img/lesson34-helic.png) | [helic详解](src/assets/img/lesson34-detail-helic.png)  |  [cept1](src/assets/img/lesson34-cept.png) | [cept1详解](src/assets/img/lesson34-detail-cept.png)  
 35. [cept2](src/assets/img/lesson35-cept.png) | [cept2详解](src/assets/img/lesson35-detail-cept.png)  
 36. [cept3](src/assets/img/lesson36-cept.png) | [cept3详解](src/assets/img/lesson36-detail-cept.png)  
-37. [cept4](src/assets/img/lesson37-cept.png) | [cept4详解](src/assets/img/lesson37-detail-cept.png)  
+37. [cept4](src/assets/img/lesson37-cept.png) | [cept4详解](src/assets/img/lesson37-detail-cept.png)  |   [sert](src/assets/img/lesson37-sert.png) | [sert详解](src/assets/img/lesson37-detail-sert.png)  |   [duct](src/assets/img/lesson37-duct.png) | [duct详解](src/assets/img/lesson37-detail-duct.png)  
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
