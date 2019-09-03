@@ -44,7 +44,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 33. [lat2](src/assets/img/lesson33-lat.png) | [lat2-detail](src/assets/img/lesson33-detail-lat.png) | [sim1](src/assets/img/lesson33-sim.png) | [sim1-detail](src/assets/img/lesson33-detail-sim.png) 
 34. [sim2](src/assets/img/lesson34-sim.png) | [sim2-detail](src/assets/img/lesson34-detail-sim.png)   |  [descip](src/assets/img/lesson34-descip.png) | [descip-detail](src/assets/img/lesson34-detail-descip.png)  [helic](src/assets/img/lesson34-helic.png) | [helic-detail](src/assets/img/lesson34-detail-helic.png)  |  [cept](src/assets/img/lesson34-cept.png) | [cept-detail](src/assets/img/lesson34-detail-cept.png)  
 35. [cept2](src/assets/img/lesson35-cept.png) | [cept2-detail](src/assets/img/lesson35-detail-cept.png)   
-36. [cept3](src/assets/img/lesson36-cept.png) | [cept3详解](src/assets/img/lesson36-detail-cept.png)   
+36. [cept3](src/assets/img/lesson36-cept.png) | [cept3-detail](src/assets/img/lesson36-detail-cept.png)   
+37. [cept4](src/assets/img/lesson37-cept.png) | [cept4-detail](src/assets/img/lesson37-detail-cept.png)  
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
