@@ -46,6 +46,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 35. [cept2](src/assets/img/lesson35-cept.png) | [cept2-detail](src/assets/img/lesson35-detail-cept.png)   
 36. [cept3](src/assets/img/lesson36-cept.png) | [cept3-detail](src/assets/img/lesson36-detail-cept.png)   
 37. [cept4](src/assets/img/lesson37-cept.png) | [cept4-detail](src/assets/img/lesson37-detail-cept.png)    |   [sert](src/assets/img/lesson37-sert.png) | [sert-detail](src/assets/img/lesson37-detail-sert.png)  |   [duct](src/assets/img/lesson37-duct.png) | [duct-detail](src/assets/img/lesson37-detail-duct.png)  
+38. [duct2](src/assets/img/lesson38-duct.png) | [duct2-detail](src/assets/img/lesson38-detail-duct.png)  |   [peri](src/assets/img/lesson37-peri.png) | [peri-detail](src/assets/img/lesson37-detail-peri.png) 
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
