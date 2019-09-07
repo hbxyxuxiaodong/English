@@ -55,7 +55,8 @@
 37. [cept4](src/assets/img/lesson37-cept.png) | [cept4详解](src/assets/img/lesson37-detail-cept.png)  |   [sert](src/assets/img/lesson37-sert.png) | [sert详解](src/assets/img/lesson37-detail-sert.png)  |   [duct1](src/assets/img/lesson37-duct.png) | [duct1详解](src/assets/img/lesson37-detail-duct.png)  
 38. [duct2](src/assets/img/lesson38-duct.png) | [duct2详解](src/assets/img/lesson38-detail-duct.png)  |   [peri](src/assets/img/lesson38-peri.png) | [peri详解](src/assets/img/lesson38-detail-peri.png) 
 39. [scen](src/assets/img/lesson39-scen.png) | [scen详解](src/assets/img/lesson39-detail-scen.png)  |   [journ](src/assets/img/lesson39-journ.png) | [journ详解](src/assets/img/lesson39-detail-journ.png) |   [circ](src/assets/img/lesson39-circ.png) | [circ详解](src/assets/img/lesson39-detail-circ.png)  
-40.  [part](src/assets/img/lesson40-part.png) | [part详解](src/assets/img/lesson40-detail-part.png)  
+40.  [part1](src/assets/img/lesson40-part.png) | [part1详解](src/assets/img/lesson40-detail-part.png)  
+41.  [part2](src/assets/img/lesson41-part.png) | [part2详解](src/assets/img/lesson41-detail-part.png)   |   [vent](src/assets/img/lesson41-vent.png) | [vent详解](src/assets/img/lesson41-detail-vent.png)   |   [haust](src/assets/img/lesson41-haust.png) | [haust详解](src/assets/img/lesson41-detail-haust.png)  
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
