@@ -57,6 +57,7 @@
 39. [scen](src/assets/img/lesson39-scen.png) | [scen详解](src/assets/img/lesson39-detail-scen.png)  |   [journ](src/assets/img/lesson39-journ.png) | [journ详解](src/assets/img/lesson39-detail-journ.png) |   [circ](src/assets/img/lesson39-circ.png) | [circ详解](src/assets/img/lesson39-detail-circ.png)  
 40.  [part1](src/assets/img/lesson40-part.png) | [part1详解](src/assets/img/lesson40-detail-part.png)  
 41.  [part2](src/assets/img/lesson41-part.png) | [part2详解](src/assets/img/lesson41-detail-part.png)   |   [vent](src/assets/img/lesson41-vent.png) | [vent详解](src/assets/img/lesson41-detail-vent.png)   |   [haust](src/assets/img/lesson41-haust.png) | [haust详解](src/assets/img/lesson41-detail-haust.png)  
+42.  [tra](src/assets/img/lesson42-part.png) | [tra详解](src/assets/img/lesson42-detail-tra.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
