@@ -50,7 +50,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 39. [scen](src/assets/img/lesson39-scen.png) | [scen-detail](src/assets/img/lesson39-detail-scen.png)  |   [journ](src/assets/img/lesson39-journ.png) | [journ-detail](src/assets/img/lesson39-detail-journ.png) |   [circ](src/assets/img/lesson39-circ.png) | [circ-detail](src/assets/img/lesson39-detail-circ.png)   
 40.  [part](src/assets/img/lesson40-part.png) | [part-detail](src/assets/img/lesson40-detail-part.png)  
 41.  [part2](src/assets/img/lesson41-part.png) | [part2-detail](src/assets/img/lesson41-detail-part.png)   |   [vent](src/assets/img/lesson41-vent.png) | [vent-detail](src/assets/img/lesson41-detail-vent.png)   |   [haust](src/assets/img/lesson41-haust.png) | [haust-detail](src/assets/img/lesson41-detail-haust.png)  
-42.  [tra](src/assets/img/lesson42-part.png) | [tra-detail](src/assets/img/lesson42-detail-tra.png) 
+42.  [tra](src/assets/img/lesson42-part.png) | [tra-detail](src/assets/img/lesson42-detail-tra.png)   
+43.  [tra2](src/assets/img/lesson43-part.png) | [tra2-detail](src/assets/img/lesson43-detail-tra.png)  |   [loc](src/assets/img/lesson43-loc.png) | [loc-detail](src/assets/img/lesson43-detail-loc.png)   |   [urb](src/assets/img/lesson43-urb.png) | [urb-detail](src/assets/img/lesson43-detail-urb.png)   |   [fortun](src/assets/img/lesson43-fortun.png) | [fortun-detail](src/assets/img/lesson43-detail-fortun.png)   |   [torn](src/assets/img/lesson43-torn.png) |  [torn-detail](src/assets/img/lesson43-detail-torn.png)   
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
