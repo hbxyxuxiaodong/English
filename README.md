@@ -11,7 +11,12 @@
 
 ##  学习计划贯穿全程
 <p align="center">
-    <img width="300" src="src/assets/img/learn-plain.png">
+    <img width="300" src="src/assets/img/learning-plan.png">
+</p>  
+
+##  听力训练
+<p align="center">
+    <img width="300" src="src/assets/img/listening-training.png">
 </p>
 
 ##  这是英语学习word文档和思维导图  
