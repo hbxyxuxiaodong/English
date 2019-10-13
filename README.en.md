@@ -65,7 +65,8 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 43.  [tra2](src/assets/img/lesson43-part.png) | [tra2-detail](src/assets/img/lesson43-detail-tra.png)  |   [loc](src/assets/img/lesson43-loc.png) | [loc-detail](src/assets/img/lesson43-detail-loc.png)   |   [urb](src/assets/img/lesson43-urb.png) | [urb-detail](src/assets/img/lesson43-detail-urb.png)   |   [fortun](src/assets/img/lesson43-fortun.png) | [fortun-detail](src/assets/img/lesson43-detail-fortun.png)   |   [torn](src/assets/img/lesson43-torn.png) |  [torn-detail](src/assets/img/lesson43-detail-torn.png)   
 44. [noc](src/assets/img/lesson44-noc.png) | [noc-detail](src/assets/img/lesson44-detail-noc.png)  |   [proach](src/assets/img/lesson44-proach.png) | [proach-detail](src/assets/img/lesson44-detail-proach.png)  |   [gorg](src/assets/img/lesson44-gorg.png) | [gorg-detail](src/assets/img/lesson44-detail-gorg.png)    |   [arch](src/assets/img/lesson44-arch.png) | [arch-detail](src/assets/img/lesson44-detail-arch.png)  
 45. [fess](src/assets/img/lesson45-fess.png) | [fess-detail](src/assets/img/lesson45-detail-fess.png)  |   [manu](src/assets/img/lesson45-manu.png)  |  [manu-detail](src/assets/img/lesson45-detail-fess.png)    |   [fasc](src/assets/img/lesson45-fasc.png)  |  [fasc-detail](src/assets/img/lesson45-detail-fasc.png)   
-46. [viv](src/assets/img/lesson46-viv.png)  |  [fess详解](src/assets/img/lesson46-detail-viv.png)   
+46. [viv](src/assets/img/lesson46-viv.png)  |  [fess-detail](src/assets/img/lesson46-detail-viv.png)   |  [tact1](src/assets/img/lesson46-tact.png)  |  [tact1-detail](src/assets/img/lesson46-detail-tact.png)  
+47. [tact2](src/assets/img/lesson47-tact.png)  |  [tact2-detail](src/assets/img/lesson47-detail-tact.png) 
 ## Personal Blog  
 
 * [Yan Yun Chang feng](https://yanyunchangfeng.com) 
