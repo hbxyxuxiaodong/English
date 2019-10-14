@@ -67,7 +67,7 @@
 44. [noc](src/assets/img/lesson44-noc.png) | [noc详解](src/assets/img/lesson44-detail-noc.png)  |   [proach](src/assets/img/lesson44-proach.png) | [proach详解](src/assets/img/lesson44-detail-proach.png)  |   [gorg](src/assets/img/lesson44-gorg.png) | [gorg详解](src/assets/img/lesson44-detail-gorg.png)  |   [arch](src/assets/img/lesson44-arch.png) | [arch详解](src/assets/img/lesson44-detail-arch.png)  
 45. [fess](src/assets/img/lesson45-fess.png)  |  [fess详解](src/assets/img/lesson45-detail-fess.png)  |   [manu](src/assets/img/lesson45-manu.png)  |  [manu详解](src/assets/img/lesson45-detail-fess.png)   |   [fasc](src/assets/img/lesson45-fasc.png)  |  [fasc详解](src/assets/img/lesson45-detail-fasc.png)   
 46. [viv](src/assets/img/lesson46-viv.png)  |  [fess详解](src/assets/img/lesson46-detail-viv.png) |  [tact1](src/assets/img/lesson46-tact.png)  |  [tact1详解](src/assets/img/lesson46-detail-tact.png) 
-47. [tact2](src/assets/img/lesson47-tact.png)  |  [tact2详解](src/assets/img/lesson47-detail-tact.png) 
+47. [tact2](src/assets/img/lesson47-tact.png)  |  [tact2详解](src/assets/img/lesson47-detail-tact.png)  |   [liqu](src/assets/img/lesson47-liqu.png)  |  [liqu详解](src/assets/img/lesson47-detail-liqu.png) 
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
