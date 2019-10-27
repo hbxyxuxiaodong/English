@@ -67,7 +67,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 45. [fess](src/assets/img/lesson45-fess.png) | [fess-detail](src/assets/img/lesson45-detail-fess.png)  |   [manu](src/assets/img/lesson45-manu.png)  |  [manu-detail](src/assets/img/lesson45-detail-fess.png)    |   [fasc](src/assets/img/lesson45-fasc.png)  |  [fasc-detail](src/assets/img/lesson45-detail-fasc.png)   
 46. [viv](src/assets/img/lesson46-viv.png)  |  [fess-detail](src/assets/img/lesson46-detail-viv.png)   |  [tact1](src/assets/img/lesson46-tact.png)  |  [tact1-detail](src/assets/img/lesson46-detail-tact.png)  
 47. [tact2](src/assets/img/lesson47-tact.png)  |  [tact2-detail](src/assets/img/lesson47-detail-tact.png)   |   [liqu](src/assets/img/lesson47-liqu.png)  |  [liqu-detail](src/assets/img/lesson47-detail-liqu.png)   |    [pand](src/assets/img/lesson47-pand.png)  |  [pand-detail](src/assets/img/lesson47-detail-pand.png)    |   [mix](src/assets/img/lesson47-mix.png)  |  [mix-detail](src/assets/img/lesson47-detail-mix.png)       |   [electr](src/assets/img/lesson47-electr.png)  |  [electr-detail](src/assets/img/lesson47-detail-electr.png)   
-48. [electr2](src/assets/img/lesson48-electr.png)  |  [electr2详情](src/assets/img/lesson48-detail-electr.png)   
+48. [electr2](src/assets/img/lesson48-electr.png)  |  [electr2详情](src/assets/img/lesson48-detail-electr.png)    |   [clud1](src/assets/img/lesson48-clud.png)  |  [clud1-detail](src/assets/img/lesson48-detail-clud.png)   
 ## 我的个人博客  
 ## Personal Blog  
 
