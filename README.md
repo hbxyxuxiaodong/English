@@ -69,6 +69,7 @@
 46. [viv](src/assets/img/lesson46-viv.png)  |  [fess详解](src/assets/img/lesson46-detail-viv.png) |  [tact1](src/assets/img/lesson46-tact.png)  |  [tact1详解](src/assets/img/lesson46-detail-tact.png) 
 47. [tact2](src/assets/img/lesson47-tact.png)  |  [tact2详解](src/assets/img/lesson47-detail-tact.png)   |   [liqu](src/assets/img/lesson47-liqu.png)  |  [liqu详解](src/assets/img/lesson47-detail-liqu.png)   |   [pand](src/assets/img/lesson47-pand.png)  |  [pand详情](src/assets/img/lesson47-detail-pand.png)   |   [mix](src/assets/img/lesson47-mix.png)  |  [mix详情](src/assets/img/lesson47-detail-mix.png)     |   [electr1](src/assets/img/lesson47-electr.png)  |  [electr1详情](src/assets/img/lesson47-detail-electr.png)   
 48. [electr2](src/assets/img/lesson48-electr.png)  |  [electr2详情](src/assets/img/lesson48-detail-electr.png)   |   [clud1](src/assets/img/lesson48-clud.png)  |  [clud1详情](src/assets/img/lesson48-detail-clud.png)   
+49.   [clud2](src/assets/img/lesson49-clud.png)  |  [clud2详情](src/assets/img/lesson49-detail-clud.png)   
 ## 我的个人博客  
 
 * [燕云长风](https://yanyunchangfeng.com) 
