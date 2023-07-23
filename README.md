@@ -1,11 +1,13 @@
 [English](README.en.md) | 简体中文   
 
+
 <p align="center">
     <img width="300" src="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/img/blog/yycf/yanyunchangfeng.png">
 </p>
 
+
 ##  介绍
-你好，我是徐晓东，笔名[燕云长风](https://yanyunchangfeng.com)。大漠穷秋于 2019-03-16 21:22 赠此笔名。   
+你好，我是[燕云长风](https://yanyunchangfeng.github.io)。
 寓意：结合李白著名的边塞诗《关山月》取【燕云长风】—— 长风几万里，吹度玉门关。
 
 
@@ -20,83 +22,73 @@
 </p>
 
 ##  这是英语学习word文档和思维导图  
-0.  [音标](src/assets/img/lesson0.png)  |  [音标详解](src/assets/img/lesson0-detail.png)  
-1.  [vinc](src/assets/img/lesson1-vinc.png)  |  [vinc详解](src/assets/img/lesson1-detail-vinc.png)  
-2.  [form1](src/assets/img/lesson2-form.png)  |  [form1详解](src/assets/img/lesson2-detail-form.png)    
-3.  [form2](src/assets/img/lesson3-form.png)  |  [form2详解](src/assets/img/lesson3-detail-form.png)    
-4.  [form3](src/assets/img/lesson4-form.png)  |  [form3详解](src/assets/img/lesson4-detail-form.png) | [prehend](src/assets/img/lesson4-prehend.png)  |  [prehend详解](src/assets/img/lesson4-detail-prehend.png)
-5.  [struct](src/assets/img/lesson5-struct.png)  |  [struct详解](src/assets/img/lesson5-detail-struct.png)  | [od](src/assets/img/lesson5-od.png)  |  [od详解](src/assets/img/lesson5-detail-od.png)
-6.  [bar1](src/assets/img/lesson6-bar.png)   |  [bar1详解](src/assets/img/lesson6-detail-bar.png) 
-7.  [bar2](src/assets/img/lesson7-bar.png)   |  [bar2详解](src/assets/img/lesson7-detail-bar.png)  |  [via](src/assets/img/lesson7-via.png)   |  [via详解](src/assets/img/lesson7-detail-via.png)  
-8.  [script](src/assets/img/lesson8-script.png)   |  [script详解](src/assets/img/lesson8-detail-script.png) |  [techno](src/assets/img/lesson8-techno.png)   |  [techno详解](src/assets/img/lesson8-detail-techno.png) |  [press](src/assets/img/lesson8-press.png)   |  [press详解](src/assets/img/lesson8-detail-press.png) 
-9.  [rect1](src/assets/img/lesson9-rect.png)   |  [rect1详解](src/assets/img/lesson9-detail-rect.png) 
-10. [rect2](src/assets/img/lesson10-rect.png)   |  [rect2详解](src/assets/img/lesson10-detail-rect.png)  |  [flux1](src/assets/img/lesson10-flux.png)   |  [flux1详解](src/assets/img/lesson10-detail-flux.png) 
-11. [flux2](src/assets/img/lesson11-flux.png)   |  [flux2详解](src/assets/img/lesson11-detail-flux.png)  |  [st1](src/assets/img/lesson11-st.png)   |  [st1详解](src/assets/img/lesson11-detail-st.png) 
-12. [st2](src/assets/img/lesson12-st.png)   |  [st2详解上](src/assets/img/lesson12-detail-st-prev.png) |  [st详解2下](src/assets/img/lesson12-detail-st-next.png) 
-13. [st3](src/assets/img/lesson13-st.png)   |  [st3详解上](src/assets/img/lesson13-detail-st-prev.png) |  [st详解3下](src/assets/img/lesson13-detail-st-next.png) 
-14. [st4](src/assets/img/lesson14-st.png)   |  [st4详解](src/assets/img/lesson14-detail-st.png) 
-15. [st5](src/assets/img/lesson15-st.png)   |  [st5详解](src/assets/img/lesson15-detail-st.png) 
-16. [st6](src/assets/img/lesson16-st.png)   |  [st6详解上](src/assets/img/lesson16-detail-st-prev.png) |  [st详解6下](src/assets/img/lesson16-detail-st-next.png) 
-17. [sit](src/assets/img/lesson17-sit.png)  |  [sit详解上](src/assets/img/lesson17-detail-sit-prev.png) |  [sit详解下](src/assets/img/lesson17-detail-sit-next.png) 
-18. [pear](src/assets/img/lesson18-pear.png)  |  [pear详解](src/assets/img/lesson18-detail-pear.png) |  [mov](src/assets/img/lesson18-mov.png)  |  [mov详解](src/assets/img/lesson18-detail-mov.png) 
-19. [cover](src/assets/img/lesson19-cover.png)  |  [cover详解](src/assets/img/lesson19-detail-cover.png) |  [plic1](src/assets/img/lesson19-plic.png)  |  [plic1详解](src/assets/img/lesson19-detail-plic.png) 
-20. [plic2](src/assets/img/lesson20-plic.png)  |  [plic2详解](src/assets/img/lesson20-detail-plic.png) |  [mus](src/assets/img/lesson20-mus.png)  |  [mus详解](src/assets/img/lesson20-detail-mus.png) |  [erg1](src/assets/img/lesson20-erg.png)  |  [erg1详解](src/assets/img/lesson20-detail-erg.png) 
-21. [erg2](src/assets/img/lesson21-erg.png)  |  [erg2详解](src/assets/img/lesson21-detail-erg.png) |  [lect1](src/assets/img/lesson21-lect.png)  |  [lect1详解](src/assets/img/lesson21-detail-lect.png) 
-22. [lect2](src/assets/img/lesson22-lect.png)  |  [lect2详解上](src/assets/img/lesson22-detail-lect-prev.png) |  [lect2详解下](src/assets/img/lesson22-detail-lect-next.png) 
-23. [nerv](src/assets/img/lesson23-nerv.png)  |  [nerv详解](src/assets/img/lesson23-detail-nerv.png) 
-24. [path](src/assets/img/lesson24-path.png)  |  [path详解](src/assets/img/lesson24-detail-path.png)   |   [strict1](src/assets/img/lesson24-strict.png)  |  [strict1详解](src/assets/img/lesson24-detail-strict.png)  
-25. [strict2](src/assets/img/lesson25-strict.png)  |  [strict2详解](src/assets/img/lesson25-detail-strict.png)  |  [vac](src/assets/img/lesson25-vac.png)  |  [vac详解](src/assets/img/lesson25-detail-vac.png) |  [ple](src/assets/img/lesson25-ple.png)  |  [ple详解](src/assets/img/lesson25-detail-ple.png) 
-26. [medi](src/assets/img/lesson26-medi.png)  |  [medi详解](src/assets/img/lesson26-detail-medi.png) |  [preci](src/assets/img/lesson26-preci.png)  |  [preci详解](src/assets/img/lesson26-detail-preci.png) |[miss1](src/assets/img/lesson26-miss.png)  |  [miss1详解](src/assets/img/lesson26-detail-miss.png) 
-27. [miss2](src/assets/img/lesson27-miss.png)  |  [miss2详解](src/assets/img/lesson27-detail-miss.png) 
-28. [sci](src/assets/img/lesson28-sci.png)  |  [sci详解](src/assets/img/lesson28-detail-sci.png) |  [liter](src/assets/img/lesson28-liter.png)  |  [liter详解](src/assets/img/lesson28-detail-liter.png) |  [sum1](src/assets/img/lesson28-sum.png)  |  [sum1详解](src/assets/img/lesson28-detail-sum.png)  
-29. [sum2](src/assets/img/lesson29-sum.png)  |  [sum2详解](src/assets/img/lesson29-detail-sum.png) |[spect1](src/assets/img/lesson29-spect.png)  |  [spect1详解](src/assets/img/lesson29-detail-spect.png)  
-30. [spect2](src/assets/img/lesson30-spect.png)  |  [spect2详解上](src/assets/img/lesson30-detail-spect-prev.png) |  [spect2详解下](src/assets/img/lesson30-detail-spect-next.png) 
-31. [spect3](src/assets/img/lesson31-spect.png) | [spect3详解](src/assets/img/lesson31-detail-spect.png) | [vis1](src/assets/img/lesson31-vis.png) | [vis1详解](src/assets/img/lesson31-detail-vis.png) 
-32.  [vis2](src/assets/img/lesson32-vis.png) | [vis2详解](src/assets/img/lesson32-detail-vis.png) | [seri](src/assets/img/lesson32-seri.png) | [seri详解](src/assets/img/lesson32-detail-seri.png) | [lat1](src/assets/img/lesson32-lat.png) | [lat1详解](src/assets/img/lesson32-detail-lat.png) 
-33. [lat2](src/assets/img/lesson33-lat.png) | [lat2详解](src/assets/img/lesson33-detail-lat.png) | [sim1](src/assets/img/lesson33-sim.png) | [sim1详解](src/assets/img/lesson33-detail-sim.png)
-34. [sim2](src/assets/img/lesson34-sim.png) | [sim2详解](src/assets/img/lesson34-detail-sim.png)  |  [descip](src/assets/img/lesson34-descip.png) | [descip详解](src/assets/img/lesson34-detail-descip.png) | [helic](src/assets/img/lesson34-helic.png) | [helic详解](src/assets/img/lesson34-detail-helic.png)  |  [cept1](src/assets/img/lesson34-cept.png) | [cept1详解](src/assets/img/lesson34-detail-cept.png)  
-35. [cept2](src/assets/img/lesson35-cept.png) | [cept2详解](src/assets/img/lesson35-detail-cept.png)  
-36. [cept3](src/assets/img/lesson36-cept.png) | [cept3详解](src/assets/img/lesson36-detail-cept.png)  
-37. [cept4](src/assets/img/lesson37-cept.png) | [cept4详解](src/assets/img/lesson37-detail-cept.png)  |   [sert](src/assets/img/lesson37-sert.png) | [sert详解](src/assets/img/lesson37-detail-sert.png)  |   [duct1](src/assets/img/lesson37-duct.png) | [duct1详解](src/assets/img/lesson37-detail-duct.png)  
-38. [duct2](src/assets/img/lesson38-duct.png) | [duct2详解](src/assets/img/lesson38-detail-duct.png)  |   [peri](src/assets/img/lesson38-peri.png) | [peri详解](src/assets/img/lesson38-detail-peri.png) 
-39. [scen](src/assets/img/lesson39-scen.png) | [scen详解](src/assets/img/lesson39-detail-scen.png)  |   [journ](src/assets/img/lesson39-journ.png) | [journ详解](src/assets/img/lesson39-detail-journ.png) |   [circ](src/assets/img/lesson39-circ.png) | [circ详解](src/assets/img/lesson39-detail-circ.png)  
-40.  [part1](src/assets/img/lesson40-part.png) | [part1详解](src/assets/img/lesson40-detail-part.png)  
-41.  [part2](src/assets/img/lesson41-part.png) | [part2详解](src/assets/img/lesson41-detail-part.png)   |   [vent](src/assets/img/lesson41-vent.png) | [vent详解](src/assets/img/lesson41-detail-vent.png)   |   [haust](src/assets/img/lesson41-haust.png) | [haust详解](src/assets/img/lesson41-detail-haust.png)  
-42.  [tra1](src/assets/img/lesson42-part.png) | [tra1详解](src/assets/img/lesson42-detail-tra.png) 
-43.  [tra2](src/assets/img/lesson43-part.png) | [tra2详解](src/assets/img/lesson43-detail-tra.png)  |   [loc](src/assets/img/lesson43-loc.png) | [loc详解](src/assets/img/lesson43-detail-loc.png)   |   [urb](src/assets/img/lesson43-urb.png) | [urb详解](src/assets/img/lesson43-detail-urb.png)   |   [fortun](src/assets/img/lesson43-fortun.png) | [fortun详解](src/assets/img/lesson43-detail-fortun.png)   |   [torn](src/assets/img/lesson43-torn.png) |  [torn详解](src/assets/img/lesson43-detail-torn.png)  
-44. [noc](src/assets/img/lesson44-noc.png) | [noc详解](src/assets/img/lesson44-detail-noc.png)  |   [proach](src/assets/img/lesson44-proach.png) | [proach详解](src/assets/img/lesson44-detail-proach.png)  |   [gorg](src/assets/img/lesson44-gorg.png) | [gorg详解](src/assets/img/lesson44-detail-gorg.png)  |   [arch](src/assets/img/lesson44-arch.png) | [arch详解](src/assets/img/lesson44-detail-arch.png)  
-45. [fess](src/assets/img/lesson45-fess.png)  |  [fess详解](src/assets/img/lesson45-detail-fess.png)  |   [manu](src/assets/img/lesson45-manu.png)  |  [manu详解](src/assets/img/lesson45-detail-fess.png)   |   [fasc](src/assets/img/lesson45-fasc.png)  |  [fasc详解](src/assets/img/lesson45-detail-fasc.png)   
-46. [viv](src/assets/img/lesson46-viv.png)  |  [fess详解](src/assets/img/lesson46-detail-viv.png) |  [tact1](src/assets/img/lesson46-tact.png)  |  [tact1详解](src/assets/img/lesson46-detail-tact.png) 
-47. [tact2](src/assets/img/lesson47-tact.png)  |  [tact2详解](src/assets/img/lesson47-detail-tact.png)   |   [liqu](src/assets/img/lesson47-liqu.png)  |  [liqu详解](src/assets/img/lesson47-detail-liqu.png)   |   [pand](src/assets/img/lesson47-pand.png)  |  [pand详情](src/assets/img/lesson47-detail-pand.png)   |   [mix](src/assets/img/lesson47-mix.png)  |  [mix详情](src/assets/img/lesson47-detail-mix.png)     |   [electr1](src/assets/img/lesson47-electr.png)  |  [electr1详情](src/assets/img/lesson47-detail-electr.png)   
-48. [electr2](src/assets/img/lesson48-electr.png)  |  [electr2详情](src/assets/img/lesson48-detail-electr.png)   |   [clud1](src/assets/img/lesson48-clud.png)  |  [clud1详情](src/assets/img/lesson48-detail-clud.png)   
-49.   [clud2](src/assets/img/lesson49-clud.png)  |  [clud2详情](src/assets/img/lesson49-detail-clud.png)   
-## 我的个人博客  
+0.  [音标](src/assets/img/lesson0.png)  |  [音标详解](src/app/lesson0/lesson0-detail.pdf)  
+1.  [vinc](src/app/lesson1/lesson1-vinc.pdf)  |  [vinc详解](src/app/lesson1/lesson1-detail-vinc.pdf)  
+2.  [form1](src/app/lesson2/lesson2-form.pdf)  |  [form1详解](src/app/lesson2/lesson2-detail-form.pdf)    
+3.  [form2](src/app/lesson3/lesson3-form.pdf)  |  [form2详解](src/app/lesson3/lesson3-detail-form.pdf)    
+4.  [form3](src/app/lesson4/lesson4-form.pdf)  |  [form3详解](src/app/lesson4/lesson4-detail-form.pdf) | [prehend](src/app/lesson4/lesson4-prehend.pdf)  |  [prehend详解](src/app/lesson4/lesson4-detail-prehend.pdf)
+5.  [struct](src/app/lesson5/lesson5-struct.pdf)  |  [struct详解](src/app/lesson5/lesson5-detail-struct.pdf)  | [od](src/app/lesson5/lesson5-od.pdf)  |  [od详解](src/app/lesson5/lesson5-detail-od.pdf)
+6.  [bar1](src/app/lesson/lesson6-bar.pdf)   |  [bar1详解](src/app/lesson/lesson6-detail-bar.pdf) 
+7.  [bar2](src/app/lesson/lesson7-bar.pdf)   |  [bar2详解](src/app/lesson/lesson7-detail-bar.pdf)  |  [via](src/app/lesson/lesson7-via.pdf)   |  [via详解](src/app/lesson/lesson7-detail-via.pdf)  
+8.  [script](src/app/lesson/lesson8-script.pdf)   |  [script详解](src/app/lesson/lesson8-detail-script.pdf) |  [techno](src/app/lesson/lesson8-techno.pdf)   |  [techno详解](src/app/lesson/lesson8-detail-techno.pdf) |  [press](src/app/lesson/lesson8-press.pdf)   |  [press详解](src/app/lesson/lesson8-detail-press.pdf) 
+9.  [rect1](src/app/lesson/lesson9-rect.pdf)   |  [rect1详解](src/app/lesson/lesson9-detail-rect.pdf) 
+10. [rect2](src/app/lesson/lesson10-rect.pdf)   |  [rect2详解](src/app/lesson/lesson10-detail-rect.pdf)  |  [flux1](src/app/lesson/lesson10-flux.pdf)   |  [flux1详解](src/app/lesson/lesson10-detail-flux.pdf) 
+11. [flux2](src/app/lesson/lesson11-flux.pdf)   |  [flux2详解](src/app/lesson/lesson11-detail-flux.pdf)  |  [st1](src/app/lesson/lesson11-st.pdf)   |  [st1详解](src/app/lesson/lesson11-detail-st.pdf) 
+12. [st2](src/app/lesson/lesson12-st.pdf)   |  [st2详解上](src/app/lesson/lesson12-detail-st-prev.pdf) |  [st详解2下](src/app/lesson/lesson12-detail-st-next.pdf) 
+13. [st3](src/app/lesson/lesson13-st.pdf)   |  [st3详解上](src/app/lesson/lesson13-detail-st-prev.pdf) |  [st详解3下](src/app/lesson/lesson13-detail-st-next.pdf) 
+14. [st4](src/app/lesson/lesson14-st.pdf)   |  [st4详解](src/app/lesson/lesson14-detail-st.pdf) 
+15. [st5](src/app/lesson/lesson15-st.pdf)   |  [st5详解](src/app/lesson/lesson15-detail-st.pdf) 
+16. [st6](src/app/lesson/lesson16-st.pdf)   |  [st6详解上](src/app/lesson/lesson16-detail-st-prev.pdf) |  [st详解6下](src/app/lesson/lesson16-detail-st-next.pdf) 
+17. [sit](src/app/lesson/lesson17-sit.pdf)  |  [sit详解上](src/app/lesson/lesson17-detail-sit-prev.pdf) |  [sit详解下](src/app/lesson/lesson17-detail-sit-next.pdf) 
+18. [pear](src/app/lesson/lesson18-pear.pdf)  |  [pear详解](src/app/lesson/lesson18-detail-pear.pdf) |  [mov](src/app/lesson/lesson18-mov.pdf)  |  [mov详解](src/app/lesson/lesson18-detail-mov.pdf) 
+19. [cover](src/app/lesson/lesson19-cover.pdf)  |  [cover详解](src/app/lesson/lesson19-detail-cover.pdf) |  [plic1](src/app/lesson/lesson19-plic.pdf)  |  [plic1详解](src/app/lesson/lesson19-detail-plic.pdf) 
+20. [plic2](src/app/lesson/lesson20-plic.pdf)  |  [plic2详解](src/app/lesson/lesson20-detail-plic.pdf) |  [mus](src/app/lesson/lesson20-mus.pdf)  |  [mus详解](src/app/lesson/lesson20-detail-mus.pdf) |  [erg1](src/app/lesson/lesson20-erg.pdf)  |  [erg1详解](src/app/lesson/lesson20-detail-erg.pdf) 
+21. [erg2](src/app/lesson/lesson21-erg.pdf)  |  [erg2详解](src/app/lesson/lesson21-detail-erg.pdf) |  [lect1](src/app/lesson/lesson21-lect.pdf)  |  [lect1详解](src/app/lesson/lesson21-detail-lect.pdf) 
+22. [lect2](src/app/lesson/lesson22-lect.pdf)  |  [lect2详解上](src/app/lesson/lesson22-detail-lect-prev.pdf) |  [lect2详解下](src/app/lesson/lesson22-detail-lect-next.pdf) 
+23. [nerv](src/app/lesson/lesson23-nerv.pdf)  |  [nerv详解](src/app/lesson/lesson23-detail-nerv.pdf) 
+24. [path](src/app/lesson/lesson24-path.pdf)  |  [path详解](src/app/lesson/lesson24-detail-path.pdf)   |   [strict1](src/app/lesson/lesson24-strict.pdf)  |  [strict1详解](src/app/lesson/lesson24-detail-strict.pdf)  
+25. [strict2](src/app/lesson/lesson25-strict.pdf)  |  [strict2详解](src/app/lesson/lesson25-detail-strict.pdf)  |  [vac](src/app/lesson/lesson25-vac.pdf)  |  [vac详解](src/app/lesson/lesson25-detail-vac.pdf) |  [ple](src/app/lesson/lesson25-ple.pdf)  |  [ple详解](src/app/lesson/lesson25-detail-ple.pdf) 
+26. [medi](src/app/lesson/lesson26-medi.pdf)  |  [medi详解](src/app/lesson/lesson26-detail-medi.pdf) |  [preci](src/app/lesson/lesson26-preci.pdf)  |  [preci详解](src/app/lesson/lesson26-detail-preci.pdf) |[miss1](src/app/lesson/lesson26-miss.pdf)  |  [miss1详解](src/app/lesson/lesson26-detail-miss.pdf) 
+27. [miss2](src/app/lesson/lesson27-miss.pdf)  |  [miss2详解](src/app/lesson/lesson27-detail-miss.pdf) 
+28. [sci](src/app/lesson/lesson28-sci.pdf)  |  [sci详解](src/app/lesson/lesson28-detail-sci.pdf) |  [liter](src/app/lesson/lesson28-liter.pdf)  |  [liter详解](src/app/lesson/lesson28-detail-liter.pdf) |  [sum1](src/app/lesson/lesson28-sum.pdf)  |  [sum1详解](src/app/lesson/lesson28-detail-sum.pdf)  
+29. [sum2](src/app/lesson/lesson29-sum.pdf)  |  [sum2详解](src/app/lesson/lesson29-detail-sum.pdf) |[spect1](src/app/lesson/lesson29-spect.pdf)  |  [spect1详解](src/app/lesson/lesson29-detail-spect.pdf)  
+30. [spect2](src/app/lesson/lesson30-spect.pdf)  |  [spect2详解上](src/app/lesson/lesson30-detail-spect-prev.pdf) |  [spect2详解下](src/app/lesson/lesson30-detail-spect-next.pdf) 
+31. [spect3](src/app/lesson/lesson31-spect.pdf) | [spect3详解](src/app/lesson/lesson31-detail-spect.pdf) | [vis1](src/app/lesson/lesson31-vis.pdf) | [vis1详解](src/app/lesson/lesson31-detail-vis.pdf) 
+32.  [vis2](src/app/lesson/lesson32-vis.pdf) | [vis2详解](src/app/lesson/lesson32-detail-vis.pdf) | [seri](src/app/lesson/lesson32-seri.pdf) | [seri详解](src/app/lesson/lesson32-detail-seri.pdf) | [lat1](src/app/lesson/lesson32-lat.pdf) | [lat1详解](src/app/lesson/lesson32-detail-lat.pdf) 
+33. [lat2](src/app/lesson/lesson33-lat.pdf) | [lat2详解](src/app/lesson/lesson33-detail-lat.pdf) | [sim1](src/app/lesson/lesson33-sim.pdf) | [sim1详解](src/app/lesson/lesson33-detail-sim.pdf)
+34. [sim2](src/app/lesson/lesson34-sim.pdf) | [sim2详解](src/app/lesson/lesson34-detail-sim.pdf)  |  [descip](src/app/lesson/lesson34-descip.pdf) | [descip详解](src/app/lesson/lesson34-detail-descip.pdf) | [helic](src/app/lesson/lesson34-helic.pdf) | [helic详解](src/app/lesson/lesson34-detail-helic.pdf)  |  [cept1](src/app/lesson/lesson34-cept.pdf) | [cept1详解](src/app/lesson/lesson34-detail-cept.pdf)  
+35. [cept2](src/app/lesson/lesson35-cept.pdf) | [cept2详解](src/app/lesson/lesson35-detail-cept.pdf)  
+36. [cept3](src/app/lesson/lesson36-cept.pdf) | [cept3详解](src/app/lesson/lesson36-detail-cept.pdf)  
+37. [cept4](src/app/lesson/lesson37-cept.pdf) | [cept4详解](src/app/lesson/lesson37-detail-cept.pdf)  |   [sert](src/app/lesson/lesson37-sert.pdf) | [sert详解](src/app/lesson/lesson37-detail-sert.pdf)  |   [duct1](src/app/lesson/lesson37-duct.pdf) | [duct1详解](src/app/lesson/lesson37-detail-duct.pdf)  
+38. [duct2](src/app/lesson/lesson38-duct.pdf) | [duct2详解](src/app/lesson/lesson38-detail-duct.pdf)  |   [peri](src/app/lesson/lesson38-peri.pdf) | [peri详解](src/app/lesson/lesson38-detail-peri.pdf) 
+39. [scen](src/app/lesson/lesson39-scen.pdf) | [scen详解](src/app/lesson/lesson39-detail-scen.pdf)  |   [journ](src/app/lesson/lesson39-journ.pdf) | [journ详解](src/app/lesson/lesson39-detail-journ.pdf) |   [circ](src/app/lesson/lesson39-circ.pdf) | [circ详解](src/app/lesson/lesson39-detail-circ.pdf)  
+40.  [part1](src/app/lesson/lesson40-part.pdf) | [part1详解](src/app/lesson/lesson40-detail-part.pdf)  
+41.  [part2](src/app/lesson/lesson41-part.pdf) | [part2详解](src/app/lesson/lesson41-detail-part.pdf)   |   [vent](src/app/lesson/lesson41-vent.pdf) | [vent详解](src/app/lesson/lesson41-detail-vent.pdf)   |   [haust](src/app/lesson/lesson41-haust.pdf) | [haust详解](src/app/lesson/lesson41-detail-haust.pdf)  
+42.  [tra1](src/app/lesson/lesson42-part.pdf) | [tra1详解](src/app/lesson/lesson42-detail-tra.pdf) 
+43.  [tra2](src/app/lesson/lesson43-part.pdf) | [tra2详解](src/app/lesson/lesson43-detail-tra.pdf)  |   [loc](src/app/lesson/lesson43-loc.pdf) | [loc详解](src/app/lesson/lesson43-detail-loc.pdf)   |   [urb](src/app/lesson/lesson43-urb.pdf) | [urb详解](src/app/lesson/lesson43-detail-urb.pdf)   |   [fortun](src/app/lesson/lesson43-fortun.pdf) | [fortun详解](src/app/lesson/lesson43-detail-fortun.pdf)   |   [torn](src/app/lesson/lesson43-torn.pdf) |  [torn详解](src/app/lesson/lesson43-detail-torn.pdf)  
+44. [noc](src/app/lesson/lesson44-noc.pdf) | [noc详解](src/app/lesson/lesson44-detail-noc.pdf)  |   [proach](src/app/lesson/lesson44-proach.pdf) | [proach详解](src/app/lesson/lesson44-detail-proach.pdf)  |   [gorg](src/app/lesson/lesson44-gorg.pdf) | [gorg详解](src/app/lesson/lesson44-detail-gorg.pdf)  |   [arch](src/app/lesson/lesson44-arch.pdf) | [arch详解](src/app/lesson/lesson44-detail-arch.pdf)  
+45. [fess](src/app/lesson/lesson45-fess.pdf)  |  [fess详解](src/app/lesson/lesson45-detail-fess.pdf)  |   [manu](src/app/lesson/lesson45-manu.pdf)  |  [manu详解](src/app/lesson/lesson45-detail-fess.pdf)   |   [fasc](src/app/lesson/lesson45-fasc.pdf)  |  [fasc详解](src/app/lesson/lesson45-detail-fasc.pdf)   
+46. [viv](src/app/lesson/lesson46-viv.pdf)  |  [fess详解](src/app/lesson/lesson46-detail-viv.pdf) |  [tact1](src/app/lesson/lesson46-tact.pdf)  |  [tact1详解](src/app/lesson/lesson46-detail-tact.pdf) 
+47. [tact2](src/app/lesson/lesson47-tact.pdf)  |  [tact2详解](src/app/lesson/lesson47-detail-tact.pdf)   |   [liqu](src/app/lesson/lesson47-liqu.pdf)  |  [liqu详解](src/app/lesson/lesson47-detail-liqu.pdf)   |   [pand](src/app/lesson/lesson47-pand.pdf)  |  [pand详情](src/app/lesson/lesson47-detail-pand.pdf)   |   [mix](src/app/lesson/lesson47-mix.pdf)  |  [mix详情](src/app/lesson/lesson47-detail-mix.pdf)     |   [electr1](src/app/lesson/lesson47-electr.pdf)  |  [electr1详情](src/app/lesson/lesson47-detail-electr.pdf)   
+48. [electr2](src/app/lesson/lesson48-electr.pdf)  |  [electr2详情](src/app/lesson/lesson48-detail-electr.pdf)   |   [clud1](src/app/lesson/lesson48-clud.pdf)  |  [clud1详情](src/app/lesson/lesson48-detail-clud.pdf)   
+49.   [clud2](src/app/lesson/lesson49-clud.pdf)  |  [clud2详情](src/app/lesson/lesson49-detail-clud.pdf)   
 
-* [燕云长风](https://yanyunchangfeng.com) 
 
-## 我参与的系列项目
+## 系列项目
 
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：美人鱼，这是一个微型Blog系统，前端基于Angular7.0 + PrimeNG7.1.0。（GVIP 码云最有价值的开源项目 3333 ☆)
-2. [NiceFish-React]( https://gitee.com/mumu-osc/NiceFish-React)：这是React版的实现，和 NiceFish Angular 版本保持风格一致。采用React Hooks 16.8.3 版本，使用TypeScript、Ant Design组件库以及Bootstrap v4.2.1 开发。  (7 ☆)
-3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS项目前端基于 Angular 7.0 + PrimeNG 7.1.0。  (已推荐 204 ☆)
-4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：这是NiceFish的服务端代码，基于SpringCloud。已经完成了一些基本的功能，如 SpringSecurity+OAuth2+JWT 实现SSO，文章、用户、评论等的分页查询等。如果你需要与这个后端代码进行对接，请检出本项目的 for-spring-cloud 分支。 (已推荐 126 ☆)
- 
+|  名称   | 描述  | Stars  |
+|  ----  | ----  | ----  |
+| [NiceFish（美人鱼）](http://git.oschina.net/mumu-osc/NiceFish/)  | 这是一个系列项目，目标是示范前后端分离的开发模式:前端浏览器、移动端、Electron 环境中的各种开发模式。后端有两个版本：SpringBoot 版本和 SpringCloud 版本 |  <a href='https://gitee.com/mumu-osc/NiceFish/stargazers'><img src='https://gitee.com/mumu-osc/NiceFish/badge/star.svg?theme=gvp' alt='star'></img></a>  |
+| [NiceFish-React](https://gitee.com/mumu-osc/NiceFish-React)  |  这是React 版本，基于React 18.2.0 ，使用 Antd、Inversify、 定制版 Bootstrap开发。 | <a href='https://gitee.com/mumu-osc/NiceFish-React/stargazers'><img src='https://gitee.com/mumu-osc/NiceFish-React/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [nicefish-ionic](http://git.oschina.net/mumu-osc/nicefish-ionic)  | 这是一个移动端的 demo，基于 ionic，此项目已支持 PWA。| <a href='https://gitee.com/mumu-osc/nicefish-ionic/stargazers'><img src='https://gitee.com/mumu-osc/nicefish-ionic/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [NiceBlogElectron](https://gitee.com/mumu-osc/NiceBlogElectron)  | 这是一个基于 Electron 的桌面端项目，把 NiceFish 用 Electron 打包成了一个桌面端运行的程序。这是由 ZTE 中兴通讯的前端道友提供的，我 fork 了一个，有几个 node 模块的版本号老要改，如果您正在研究如何利用 Electron 开发桌面端应用，请参考这个项目。 | <a href='https://gitee.com/mumu-osc/NiceBlogElectron/stargazers'><img src='https://gitee.com/mumu-osc/NiceBlogElectron/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [nicefish-spring-boot](https://gitee.com/mumu-osc/nicefish-spring-boot)  | 用来示范前后端分离模式下，前端代码与后端服务的对接方式，已经完成了基线版本。以此为基础，你可以继续开发出适合自己业务场景的代码。| <a href='https://gitee.com/mumu-osc/nicefish-spring-boot/stargazers'><img src='https://gitee.com/mumu-osc/nicefish-spring-boot/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)  | 用来示范前后端分离模式下，前端代码与分布式后端服务的对接方式。  | <a href='https://gitee.com/mumu-osc/nicefish-spring-cloud/stargazers'><img src='https://gitee.com/mumu-osc/nicefish-spring-cloud/badge/star.svg?theme=dark' alt='star'></img></a> |
+| [OpenWMS](https://gitee.com/mumu-osc/OpenWMS-Frontend)  | 用来示范管理后台型系统的开发模式。| <a href='https://gitee.com/mumu-osc/OpenWMS-Frontend/stargazers'><img src='https://gitee.com/mumu-osc/OpenWMS-Frontend/badge/star.svg?theme=dark' alt='star'></img></a> |  
 
-## 我的社交主页
+## 社交主页
 
-1.  [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
-2.  [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
-3.  [燕云长风github](https://github.com/yanyunchangfeng)  
-4.  [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
-5.  [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
-6.  [燕云长风medium](https://medium.com/@yanyunchangfeng)  
-7.  [燕云长风facebook](https://facebook.com/yanyunchangfeng)  
-8.  [燕云长风stackoverflow](http://stackoverflow.com/users/11366314)  
-9.  [燕云长风npm](https://npmjs.com/~yanyunchangfeng)  
-10. [燕云长风linkedin](https://www.linkedin.com/in/yanyunchangfeng)  
-11. [燕云长风youtube](https://www.youtube.com/channel/UCaz2-l8Bd8tTBf1q-2ww7VA)  
-12. [燕云长风gmail](mailto:yanyunchangfeng@gamil.com)  
- 
+-  [燕云长风github](https://github.com/yanyunchangfeng)  
 ## 开源许可证
 
 MIT
